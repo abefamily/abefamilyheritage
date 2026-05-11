@@ -1,0 +1,65 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Mar 2026 08:38:41 at https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0c2H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/ -O1 "C:\Mike_Abe\kim2-20251107" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:38:41	Warning: 	Cache: damaged cache, trying to repair
+08:38:41	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+08:38:41	Warning: 	Cache: error trying to open the cache
+08:46:46	Error: 	"FORBIDDEN" (403) at link https://web.archive.org/web/20251107210346im_/https://resources.blogblog.com/img/icon18_edit_allbkg.gif (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/Generation 4 (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search?updated-max=2011-09-17T08:49:00-04:00&max-results=3 (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/ to https://web.archive.org/web/20190918053214/http://www.abefamilyheritage.com/2010/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/06/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/06/ to https://web.archive.org/web/20210617062122/http://www.abefamilyheritage.com/2010/06/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/07/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/07/ to https://web.archive.org/web/20210617044801/http://www.abefamilyheritage.com/2010/07/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/08/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/08/ to https://web.archive.org/web/20251014042056/http://www.abefamilyheritage.com/2010/08/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/09/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/09/ to https://web.archive.org/web/20250119074808/http://www.abefamilyheritage.com/2010/09/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/10/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/10/ to https://web.archive.org/web/20251014042806/http://www.abefamilyheritage.com/2010/10/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/11/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/11/ to https://web.archive.org/web/20210617041659/http://www.abefamilyheritage.com/2010/11/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/12/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2010/12/ to https://web.archive.org/web/20240304111822/http://www.abefamilyheritage.com/2010/12/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/ to https://web.archive.org/web/20210617061444/http://www.abefamilyheritage.com/2011/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/01/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/01/ to https://web.archive.org/web/20250808165342/http://www.abefamilyheritage.com/2011/01/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/03/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/03/ to https://web.archive.org/web/20250215043050/http://www.abefamilyheritage.com/2011/03/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/04/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/04/ to https://web.archive.org/web/20241105060957/http://www.abefamilyheritage.com/2011/04/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/05/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/05/ to https://web.archive.org/web/20251107220225/http://www.abefamilyheritage.com/2011/05/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/06/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/06/ to https://web.archive.org/web/20251014050712/http://www.abefamilyheritage.com/2011/06/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/07/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/07/ to https://web.archive.org/web/20251014034801/http://www.abefamilyheritage.com/2011/07/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/08/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/08/ to https://web.archive.org/web/20210617054942/http://www.abefamilyheritage.com/2011/08/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/09/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/09/ to https://web.archive.org/web/20251014030238/http://www.abefamilyheritage.com/2011/09/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/10/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/10/ to https://web.archive.org/web/20251014043723/http://www.abefamilyheritage.com/2011/10/
+08:46:46	Warning: 	FOUND for https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/12/
+08:46:46	Warning: 	File has moved from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/2011/12/ to https://web.archive.org/web/20250906040240/http://www.abefamilyheritage.com/2011/12/
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/Cemeteries (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/Civil War (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/Deeds (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/Generation 1 (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/Generation 2 (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/Generation 3 (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/History and Historical Monuments (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/Notes or Editorials (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/Old Furnace Church (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+08:46:46	Error: 	"NOT FOUND" (404) at link https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/search/label/Wills (from https://web.archive.org/web/20251107210346/http://www.abefamilyheritage.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 5 seconds : 66 links scanned, 33 files written (5128933 bytes overall) [5230750 bytes received at 10785 bytes/sec], 2675729 bytes transferred using HTTP compression in 21 files, ratio 24%, 6.1 requests per connection
+(13 errors, 41 warnings, 0 messages)
